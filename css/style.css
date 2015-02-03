@@ -1,1 +1,12 @@
-/* file for your css */
+/*body {
+  background-image: url('bananas.jpg');
+  background-size: 300px;
+}*/
+
+.table>tbody>tr>th, .table>tbody>tr>td {
+    border-top: none;
+}
+
+h1 {
+  text-align: center;
+}
